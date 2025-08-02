@@ -33,16 +33,27 @@ RoutineX is an offline-first Android app designed for small technical crews work
 
 
 com.routinex/
+
 ├── data/
+
 │ ├── db/
+
 │ ├── models/
+
 │ └── repository/
+
 ├── ui/
+
 │ ├── activities/
+
 │ ├── fragments/
+
 │ ├── viewmodels/
+
 │ └── adapters/
+
 ├── utils/
+
 └── App.kt
 
 
